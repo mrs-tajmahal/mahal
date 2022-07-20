@@ -1,0 +1,7 @@
+D:\maven practice\mavenproject\src\test\java\xyz\fixture\PostgresTestConfig.java
+D:\maven practice\mavenproject\src\test\java\xyz\integrationtest\GreeterFakeTest.java
+D:\maven practice\mavenproject\src\test\java\xyz\integrationtest\GreeterNeedContainerTest.java
+D:\maven practice\mavenproject\src\test\java\xyz\integrationtest\GreeterRealTest.java
+D:\maven practice\mavenproject\src\test\java\xyz\integrationtest\GreeterDelegateTest.java
+D:\maven practice\mavenproject\src\test\java\xyz\integrationtest\entity\GreetingEntityTest.java
+D:\maven practice\mavenproject\src\test\java\xyz\integrationtest\GreeterNeedTest.java

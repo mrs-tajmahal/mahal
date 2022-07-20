@@ -1,0 +1,7 @@
+xyz\integrationtest\entity\GreetingEntityTest.class
+xyz\integrationtest\GreeterFakeTest.class
+xyz\fixture\PostgresTestConfig.class
+xyz\integrationtest\GreeterDelegateTest.class
+xyz\integrationtest\GreeterNeedContainerTest.class
+xyz\integrationtest\GreeterNeedTest.class
+xyz\integrationtest\GreeterRealTest.class
